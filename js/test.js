@@ -117,6 +117,8 @@ document.querySelector(".total-price").innerHTML=sum
 })
 
     
+
+//Comment
 // gray to red hearts
 document.getElementById("heartid1").addEventListener('click',function(){
    document.getElementById("heart1").setAttribute("src","/assets/red-heart.png")
